@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+.container {
+    border: 1px solid #aaa;
+    padding: 20px;
+}
+
+h2, h3 {
+    font-family: sans-serif;
+    color: #555;
+}
